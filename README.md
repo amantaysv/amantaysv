@@ -3,7 +3,7 @@
 </h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4681897/media/e612f71d1ebbfb407dd5d045c219407e.gif"/>
 
-- 👨‍💻 I'm Software Engineer at Lily.io
+- 👨‍💻 I'm Software Engineer at Growave
 - 💬 Languages: English (intermediate), Russian (native)
 
 <hr/>
