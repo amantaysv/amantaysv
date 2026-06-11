@@ -15,7 +15,3 @@ Building eCommerce platforms at **Growave** — serving 15,000+ active merchants
 - 🌐 [Portfolio](https://amantaysv.netlify.app)
 - 📄 [CV / Resume](https://github.com/amantaysv/amantaysv/blob/main/Amantay_Suranaliev_Frontend.pdf)
 - 💼 [LinkedIn](https://linkedin.com/in/amantaysv)
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amantaysv&show_icons=true&theme=default&hide_border=true)
